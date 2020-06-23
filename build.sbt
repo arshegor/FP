@@ -1,4 +1,4 @@
-name := "curseace"
+name := "Tester"
 version := "1.0"
 scalaVersion := "2.13.2"
 
